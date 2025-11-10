@@ -1,2 +1,6 @@
 mouse_movements/
 points.txt
+mv_data/
+mv_data2/
+pickle/
+*.keras
