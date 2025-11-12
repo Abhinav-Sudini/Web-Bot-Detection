@@ -4,3 +4,4 @@ mv_data/
 mv_data2/
 pickle/
 *.keras
+*.pkl
